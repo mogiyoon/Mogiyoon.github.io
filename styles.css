@@ -16,7 +16,13 @@ header {
   border-bottom: 3px solid #0d8bd9;
 }
 
-h1, h2 {
+h1 {
+  margin: 20px 0;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
   margin: 20px 0;
   font-weight: bold;
   color: #1da1f2;
